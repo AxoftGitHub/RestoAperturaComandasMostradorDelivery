@@ -256,9 +256,9 @@ Integrated Security=False;User ID=NOMBRE_USUARIO;Password=CONTRASEÑA",
 				"OptionGroups": [
 					{
 						"IntegrationCode": "521",
-                        "Name": null,
+                           "Name": null,
 						"Options": null,
-						"Quantity": 12,
+                         "Quantity": 12,
 						"Amount": 100
 					}
 				]
